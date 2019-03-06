@@ -1,4 +1,4 @@
-package com.github.jitpack;
+package com.github.bittnet;
 
 import org.junit.Test;
 

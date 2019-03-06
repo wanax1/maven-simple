@@ -2,13 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.github.jitpack</groupId>
+  <groupId>com.github.SeritAndrei</groupId>
   <artifactId>maven-simple</artifactId>
   <version>0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Simple Maven example</name>
-  <url>https://jitpack.io/#jitpack/maven-simple/0.1</url>
 
   <dependencies>
     <dependency>
@@ -43,20 +42,20 @@
                         </goals>
                     </execution>
                 </executions>
-      </plugin>
-            
-      <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-javadoc-plugin</artifactId>
-                <executions>
-                    <execution>
-                        <id>attach-javadocs</id>
-                        <goals>
-                            <goal>jar</goal>
-                        </goals>
-                    </execution>
-                </executions>
-      </plugin>
+	</plugin>
+
+	<plugin>
+		<groupId>org.apache.maven.plugins</groupId>
+		<artifactId>maven-javadoc-plugin</artifactId>
+		<executions>
+			<execution>
+				<id>attach-javadons</id>
+				<goals>
+					<goal>jar</goal>
+				</goals>
+			</execution>
+		</executions>
+	</plugin>
     </plugins>
   </build>
 
