@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.github.SeritAndrei</groupId>
-  <artifactId>maven-simple</artifactId>
+  <artifactId>maven-simple-gary</artifactId>
   <version>0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
