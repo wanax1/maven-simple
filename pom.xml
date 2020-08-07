@@ -7,7 +7,7 @@
   <version>0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Simple Maven example</name>
+  <name>Simple Maven example_gary</name>
 
   <dependencies>
     <dependency>
